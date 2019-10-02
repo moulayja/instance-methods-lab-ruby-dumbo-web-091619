@@ -3,6 +3,6 @@ def talk
   puts "Hello World!"
 end
 def walk
-  puts "The "
+  puts "The Person is walking "
 end
 end
